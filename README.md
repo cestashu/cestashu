@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Ashutosh</h1>
 <h3 align="center">A student & backend developer from India</h3>
 
-<p align="center"> <a href="https://twitter.com/1cestashu" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?logo=twitter&style=for-the-badge" alt="cestashu" /></a> </p>
+<p align="center"> <a href="https://twitter.com/1cestashu" target="blank"><img src="https://img.shields.io/twitter/follow/1nonlyabhi?logo=twitter&style=for-the-badge" alt="cestashu" /></a> </p> -->
 
 
 - 🔭 I’m currently working on **Django & Flask Framework.**
